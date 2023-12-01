@@ -1,0 +1,14 @@
+/Users/balvinderbains/code/DotNet/advent_code_day1/bin/Debug/net8.0/advent_code_day1
+/Users/balvinderbains/code/DotNet/advent_code_day1/bin/Debug/net8.0/advent_code_day1.deps.json
+/Users/balvinderbains/code/DotNet/advent_code_day1/bin/Debug/net8.0/advent_code_day1.runtimeconfig.json
+/Users/balvinderbains/code/DotNet/advent_code_day1/bin/Debug/net8.0/advent_code_day1.dll
+/Users/balvinderbains/code/DotNet/advent_code_day1/bin/Debug/net8.0/advent_code_day1.pdb
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.AssemblyInfoInputs.cache
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.AssemblyInfo.cs
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.csproj.CoreCompileInputs.cache
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.dll
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/refint/advent_code_day1.dll
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.pdb
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/advent_code_day1.genruntimeconfig.cache
+/Users/balvinderbains/code/DotNet/advent_code_day1/obj/Debug/net8.0/ref/advent_code_day1.dll
